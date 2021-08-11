@@ -6,5 +6,5 @@ check my Github to see my project
 ![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ply3r&theme=dracula&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ply3r&layout=compact&theme=dracula)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ply3r&layout=compact&theme=dracula)
 
