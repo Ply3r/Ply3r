@@ -3,6 +3,18 @@
 Hi, my name is Leandro Henrique i'm 19 year old and i'm on a journey to learn more codding and be a good developer, 
 check my Github to see my projects 
 
-![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ply3r&theme=dracula&show_icons=true)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ply3r&layout=compact&theme=dracula)
+## Skills
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/ply3r/ply3r/output/github-contribution-grid-snake.svg)
+## Status
+<div align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Ply3r&theme=dracula&show_icons=true" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ply3r&layout=compact&theme=dracula" />
+</div>
+   
