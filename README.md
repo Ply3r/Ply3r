@@ -22,6 +22,14 @@ check my Github to see my projects
   <img height="60" src="https://user-images.githubusercontent.com/68698781/152196431-6032d26a-545a-414d-a10c-6deddfe52f90.png">
 </div>
 
+## Socialmedia
+<div>
+  <a href="https://www.instagram.com/leandro3133/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "hsrleandro@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/leandro-henrique-soares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+ 
 
 ## Status
 <div align="center">
