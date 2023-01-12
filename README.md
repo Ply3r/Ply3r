@@ -1,3 +1,5 @@
+<img src="https://www.codewars.com/users/LeandroH01/badges/large" />
+
 # About
 
 Hi, my name is Leandro Henrique i'm 20 year old and i'm on a journey to learn more about codding and be a good developer, 
