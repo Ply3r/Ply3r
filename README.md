@@ -31,11 +31,3 @@ check my Github to see my projects
     <a href="https://www.linkedin.com/in/leandro-henrique-soares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
- 
-
-## Status
-<div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Ply3r&theme=dracula&show_icons=true" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ply3r&layout=compact&theme=dracula" />
-</div>
-   
