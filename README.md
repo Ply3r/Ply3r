@@ -2,7 +2,7 @@
 
 # About
 
-Hi, my name is Leandro Henrique i'm 22 year old and i'm on a journey to learn more about codding and be a good developer, 
+Hi, my name is Leandro Henrique i'm 24 year old and i'm on a journey to learn more about codding and be a good developer, 
 check my Github to see my projects
 
 ## tools I'm currently using
