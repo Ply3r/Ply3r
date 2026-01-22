@@ -34,5 +34,5 @@ I’m always looking to improve my skills, learn new technologies, and write cle
 ---
 
 <p align="center">
-  <img src="https://www.codewars.com/users/LeandroH01/badges/small" />
+  <img src="https://www.codewars.com/users/LeandroH01/badges/large" />
 </p>
