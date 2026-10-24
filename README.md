@@ -37,7 +37,6 @@ I'm a Full Stack Developer with **4 years of professional experience** and a str
 | [wave-leandrex](https://github.com/Ply3r/wave-leandrex) | Wave Function Collapse generator with step-by-step animated collapse, custom color picker and adjustable grid | Vue |
 | [pathfinder](https://github.com/Ply3r/pathfinder) | Pathfinding and search algorithm visualizer on a maze | Vue |
 | [Solar-System](https://github.com/Ply3r/Solar-System) | Solar system project | JavaScript |
-| [chatapp](https://github.com/Ply3r/chatapp) | Chat application (with [Rails](https://github.com/Ply3r/chatapp-rb-api) and [TypeScript](https://github.com/Ply3r/chatapp-api) API versions) | Vue, Ruby, TypeScript |
 
 ## Contribution graph
 
